@@ -2,3 +2,12 @@ ideas to work on:
 molecular dynamics simulation [guy next to me in the cafe is talking about this]
 drawing cool graphs: art through plots, 2D and 3D
 computational linguistics: create our own T9: see /usr/share/dicts/words for a 1 M file of english words
+
+FIRST PROJECT: NEURAL CHECKERS
+Required software/packages
+	Python (2.7.*)
+	Tkinter - making python GUI's
+	PyBrain - neural network library for python
+	
+	maybe down the line: python-visual (or VPython)
+	also, will probably want to get NumPy (math functions) and SciPy (matrix and numerical methods functions)
